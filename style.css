@@ -1,5 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
 html{
-    background-color: #272757;
+    background-color: #1A234B;
 }
 
 body{
@@ -9,28 +11,19 @@ body{
     padding: 50px;
     background-repeat: no-repeat;
     background-size: 1650px;
+    font-family: 'Sora', sans-serif;
 }
 
-.sora{
-    font-family: "Sora", serif;
-    font-weight: 600;
-    font-style: normal;
-  }
-
-.glaceon{
-    filter: hue-rotate(70deg)    
-  }
-
-.filter{
-    filter: hue-rotate(70deg);
+.mail{
+    filter: hue-rotate(-30deg);
 }
 
 .phone{
-    filter: hue-rotate(270deg);
+    filter: hue-rotate(230deg);
 }
 
 .face{
-    filter: hue-rotate(50deg);
+    filter: hue-rotate(10deg);
 }
 
 .white{
